@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tretorhate
 - 👀 I’m interested in Web Development, particularly working in Nextjs framework for Full-Stack experience
-- 🌱 I’m currently learning Nextjs
-- 💞️ I’m looking to collaborate on projects that would help me develop and find new connections.
+- 🌱 I’m currently learning Nextjs, Framer-motion and more...
+- 💞️ I’m looking to collaborate on projects that would help me develop and find new connections, looking for work.
 - 📫 How to reach me email
 - 😄 Pronouns: T r e t
 - ⚡ Fun fact: I love oranges!
